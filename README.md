@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+file main: vue.js
 ```
 
 ### Compiles and hot-reloads for development
